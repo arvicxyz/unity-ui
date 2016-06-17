@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/LoginRegister/Scenes/RegisterScene.unity
+  isLoaded: 1
+  isActive: 1
